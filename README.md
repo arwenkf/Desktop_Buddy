@@ -1,4 +1,6 @@
 # Desktop Buddy (WIP)
+![horse_rig](https://user-images.githubusercontent.com/120878524/208280600-8fd1007b-3132-4254-8947-42a1289c5778.png)
+![image](https://user-images.githubusercontent.com/120878524/208280657-3e56b7fb-23e2-494c-a772-2336461b2470.png)
 
 
 # Summary
